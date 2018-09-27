@@ -1,1 +1,1 @@
-# HLFHS
+# HLFHS Collaboration
