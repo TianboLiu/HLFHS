@@ -1,0 +1,14 @@
+Phys. Rev. Lett. 104 (2010) 242301
+https://doi.org/10.1103/PhysRevLett.104.242301
+Proton's electromagnetic form factor ratio G_Ep / G_Mp by measuring the transverse and longitudinal recoil proton polarization
+process: e(pol) + p -> e + p(pol)
+
+
+
+
+Q2	 del_Q2	  mu_p*G_Ep/G_Mp	err_stat	err_syst	  
+GeV^2	 GeV^2	  1			1		1
+5.17	 0.123	  0.443			0.066		0.018
+6.70	 0.190	  0.327			0.105		0.022
+8.49	 0.167	  0.138			0.179		0.043
+
