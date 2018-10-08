@@ -12,11 +12,13 @@
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) |  |  |  |  |
 |  | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) |  |  |  |  |
+|  | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) |  |  |  |  |
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) |  |  |  |  |
 |  | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) |  |  |  |  |
 |  | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) |  |  |  |  |
 |  | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) |  |  |  |  |
 |  | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) |  |  |  |  |
+|  | [Phys. Rev. D 48 (1993) 29](https://doi.org/10.1103/PhysRevD.48.29) |  |  |  |  |
 |  | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) |  |  |  |  |
 |  | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) |  |  |  |  |
 |  | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) |  |  |  |  |
@@ -31,6 +33,14 @@
 |  | [Phys. Rev. Lett. 82 (1999) 4988](https://doi.org/10.1103/PhysRevLett.82.4988) |  |  |  |  |
 |  | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) |  |  |  |  |
 |  | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) |  |  |  |  |
+|  | [Phys. Rev. C 84 (2011) 055204](https://doi.org/10.1103/PhysRevC.84.055204) |  |  |  |  |
+|  | [Phys. Rev. Lett. 98 (2007) 052301](https://doi.org/10.1103/PhysRevLett.98.052301) |  |  |  |  |
+|  | [Phys. Rev. C 74 (2006) 035201](https://doi.org/10.1103/PhysRevC.74.035201) |  |  |  |  |
+|  | [Nucl. Phys. A 764 (2006) 261](https://doi.org/10.1016/j.nuclphysa.2005.09.012) |  |  |  |  |
+|  | [Phys. Lett. B 705 (2011) 59](https://doi.org/10.1016/j.physletb.2011.10.002) |  |  |  |  |
+|  | [Phys. Rev. Lett. 99 (2007) 202002](https://doi.org/10.1103/PhysRevLett.99.202002) |  |  |  |  |
+|  | [Phys. Rev. Lett. 105 () 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
+|  | [Phys. Lett. B 564 (2003) 199](https://doi.org/10.1016/S0370-2693(03)00725-1) |  |  |  |  |
 
 
 
