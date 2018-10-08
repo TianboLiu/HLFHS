@@ -59,7 +59,8 @@
 |  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
-
+|  | [Phys. Rev. 130 (1963) 2061](https://doi.org/10.1103/PhysRev.130.2061) |  |  |  |  |
+|  | [Phys. Rev. Lett. 6 (1961) 286](https://doi.org/10.1103/PhysRevLett.6.286) |  |  |  |  |
 
 
 
