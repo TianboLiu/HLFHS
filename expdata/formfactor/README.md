@@ -39,7 +39,7 @@
 |  | [Nucl. Phys. A 764 (2006) 261](https://doi.org/10.1016/j.nuclphysa.2005.09.012) |  |  |  |  |
 |  | [Phys. Lett. B 705 (2011) 59](https://doi.org/10.1016/j.physletb.2011.10.002) |  |  |  |  |
 |  | [Phys. Rev. Lett. 99 (2007) 202002](https://doi.org/10.1103/PhysRevLett.99.202002) |  |  |  |  |
-|  | [Phys. Rev. Lett. 105 () 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
+|  | [Phys. Rev. Lett. 105 (2010) 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
 |  | [Phys. Lett. B 564 (2003) 199](https://doi.org/10.1016/S0370-2693(03)00725-1) |  |  |  |  |
 
 
