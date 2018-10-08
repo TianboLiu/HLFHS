@@ -9,7 +9,8 @@
 | 0004 | [Phys. Rev. C 85 (2012) 045203](https://doi.org/10.1103/PhysRevC.85.045203) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  | improved analysis of 0003 |
 | 0005 | [Phys. Rev. Lett. 104 (2010) 242301](https://doi.org/10.1103/PhysRevLett.104.242301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0006 | [Phys. Rev. Lett. 106 (2011) 132501](https://doi.org/10.1103/PhysRevLett.106.132501) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
-|  | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) |  |  |  |  |
+| 0007 | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) | G<sub>Ep</sub> | e+p->e+p |  |  |
+| 0008 | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) | G<sub>Mp</sub>/&mu;<sub>p</sub> | e+p->e+p |  |  |
 |  | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) |  |  |  |  |
 |  | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) |  |  |  |  |
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) |  |  |  |  |
@@ -55,8 +56,9 @@
 |  | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) |  |  |  |  |
 |  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
 |  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  |  |
-|  | [Phys. Rev. C 67 (2003) 012201](http://dx.doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
+|  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
+|  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
 
 
 
