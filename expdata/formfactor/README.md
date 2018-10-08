@@ -39,10 +39,24 @@
 |  | [Nucl. Phys. A 764 (2006) 261](https://doi.org/10.1016/j.nuclphysa.2005.09.012) |  |  |  |  |
 |  | [Phys. Lett. B 705 (2011) 59](https://doi.org/10.1016/j.physletb.2011.10.002) |  |  |  |  |
 |  | [Phys. Rev. Lett. 99 (2007) 202002](https://doi.org/10.1103/PhysRevLett.99.202002) |  |  |  |  |
-|  | [Phys. Rev. Lett. 105 (2010) 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
 |  | [Phys. Lett. B 564 (2003) 199](https://doi.org/10.1016/S0370-2693(03)00725-1) |  |  |  |  |
-
-
+|  | [Phys. Rev. Lett. 101 (2008) 042501](https://doi.org/10.1103/PhysRevLett.101.042501) |  |  |  |  |
+|  | [Eur. Phys. J. A 24 (2005) 101](https://doi.org/10.1140/epja/i2004-10115-8) |  |  |  |  |
+|  | [Phys. Lett. B 327 (1994) 201](https://doi.org/10.1016/0370-2693(94)90718-8) |  |  |  |  |
+|  | [Phys. Rev. C 73 (2005) 025205](https://doi.org/10.1103/PhysRevC.73.025205) |  |  |  |  |
+|  | [Phys. Rev. Lett. 83 (1999) 4257](https://doi.org/10.1103/PhysRevLett.83.4257) |  |  |  |  |
+|  | [Phys. Rev. Lett. 102 (2009) 192001](https://doi.org/10.1103/PhysRevLett.102.192001) |  |  |  |  |
+|  | [Phys. Lett. B 336 (1994) 313](https://doi.org/10.1016/0370-2693(94)90538-X) |  |  |  |  |
+|  | [Phys. Lett. B 428 (1998) 248](https://doi.org/10.1016/S0370-2693(98)00442-0) |  |  |  |  |
+|  | [Phys. Rev. Lett. 75 (1995) 21](https://doi.org/10.1103/PhysRevLett.75.21) |  |  |  |  |
+|  | [Phys. Rev. C 50 (1994) R546](https://doi.org/10.1103/PhysRevC.50.R546) |  |  |  |  |
+|  | [Phys. Rev. C 75 (2007) 034003](https://doi.org/10.1103/PhysRevC.75.034003) |  |  |  |  |
+|  | [Phys. Lett. B 524 (2002) 26](https://doi.org/10.1016/S0370-2693(01)01386-7) |  |  |  |  |
+|  | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) |  |  |  |  |
+|  | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) |  |  |  |  |
+|  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
+|  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  |  |
+|  | [Phys. Rev. C 67 (2003) 012201](http://dx.doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
 
 
 
