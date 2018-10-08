@@ -8,6 +8,8 @@
 | 0003 | [Phys. Rev. Lett. 88 (2002) 092301](https://doi.org/10.1103/PhysRevLett.88.092301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | find QF<sub>2</sub>/F<sub>1</sub>->const |
 | 0004 | [Phys. Rev. C 85 (2012) 045203](https://doi.org/10.1103/PhysRevC.85.045203) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  | improved analysis of 0003 |
 | 0005 | [Phys. Rev. Lett. 104 (2010) 242301](https://doi.org/10.1103/PhysRevLett.104.242301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
+| 0006 | [Phys. Rev. Lett. 106 (2011) 132501](https://doi.org/10.1103/PhysRevLett.106.132501
+) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) |  |  |  |  |
 |  | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) |  |  |  |  |
@@ -17,7 +19,7 @@
 |  | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) |  |  |  |  |
 |  | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) |  |  |  |  |
 |  | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) |  |  |  |  |
-|  | [Phys. Rev. D 50 (1994) 5492](https://doi.org/10.1103/PhysRevD.50.5491) |  |  |  |  |
+|  | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) |  |  |  |  |
 |  | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) |  |  |  |  |
 |  | [Phys. Rev. Lett. 94 (2005) 142301](https://doi.org/10.1103/PhysRevLett.94.142301) |  |  |  |  |
 |  | [Phys. Rev. Lett. 87 (2001) 081801](https://doi.org/10.1103/PhysRevLett.87.081801) |  |  |  |  |
