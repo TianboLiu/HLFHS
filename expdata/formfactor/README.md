@@ -24,7 +24,11 @@
 |  | [Phys. Rev. Lett. 105 (2010) 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
 |  | [Phys. Rev. Lett. 24 (1970) 753](https://doi.org/10.1103/PhysRevLett.24.753) |  |  |  |  |
 |  | [Phys. Rev. C 50 (1994) R1749](https://doi.org/10.1103/PhysRevC.50.R1749) |  |  |  |  |
-|  | [Phys. Rev. Lett. 80 (1998) 452](https://doi.org/10.1103/PhysRevLett.80.452) [Erratum 82 (1999) 2221](https://doi.org/10.1103/PhysRevLett.82.2221) |  |  |  |  |
+|  | [Phys. Rev. Lett. 80 (1998) 452](https://doi.org/10.1103/PhysRevLett.80.452) [Erratum: 82 (1999) 2221](https://doi.org/10.1103/PhysRevLett.82.2221) |  |  |  |  |
+|  | [Phys. Lett. B 470 (1999) 39](https://doi.org/10.1016/S0370-2693(99)01294-0) |  |  |  |  |
+|  | [Phys. Rev. Lett. 82 (1999) 4988](https://doi.org/10.1103/PhysRevLett.82.4988) |  |  |  |  |
+|  | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) |  |  |  |  |
+|  | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) |  |  |  |  |
 
 
 
