@@ -57,6 +57,7 @@
 |  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
 |  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  |  |
 |  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
+|  | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
 |  | [Phys. Rev. 130 (1963) 2061](https://doi.org/10.1103/PhysRev.130.2061) |  |  |  |  |
