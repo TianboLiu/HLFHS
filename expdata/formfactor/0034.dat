@@ -1,0 +1,19 @@
+Phys. Rev. D 50 (1994) 5491
+https://doi.org/10.1103/PhysRevD.50.5491
+Proton Pauli/Dirac form factor ratio from cross section measurement
+process: e p -> e p
+
+
+err_total include statistical and systematic (except normalization) errors added in quadrature
+
+Q2	 Q^2*F_2p/F_1p err_stat- err_stat+  err_total- err_total+
+GeV^2	 GeV^2	       GeV^2	 GeV^2	    GeV^2      GeV^2
+1.75	 0.799	       -0.027	 0.029	    -0.044     0.048
+2.50	 0.978	       -0.020	 0.021	    -0.056     0.062
+3.25	 1.031	       -0.043	 0.047	    -0.089     0.106
+4.00	 1.044	       -0.054	 0.060	    -0.097     0.115
+5.00	 1.060	       -0.076	 0.087	    -0.126     0.160
+6.00	 1.069	       -0.108	 0.130	    -0.149     0.194
+7.00	 0.709	       -0.137	 0.161	    -0.156     0.187
+8.83	 1.143	       -0.387	 0.821	    -0.403     0.821
+
