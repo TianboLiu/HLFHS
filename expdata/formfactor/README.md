@@ -25,7 +25,7 @@
 | 0020 | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  | include some earlier data |
 | 0021 | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0022 | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) | G<sub>Mp</sub>/&mu; | e+p->e+p |  |  |
-|  | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) |  |  |  |  |
+| 0023 | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) | G<sub>Ep</sub> | e+p->e+p |  |  |
 |  | [Phys. Rev. D 48 (1993) 29](https://doi.org/10.1103/PhysRevD.48.29) |  |  |  |  |
 |  | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) |  |  |  |  |
 |  | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) |  |  |  |  |
