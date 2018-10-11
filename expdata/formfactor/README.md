@@ -11,9 +11,9 @@
 | 0006 | [Phys. Rev. Lett. 106 (2011) 132501](https://doi.org/10.1103/PhysRevLett.106.132501) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
 | 0007 | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0008 | [Phys. Rev. 142 (1966) 922](https://doi.org/10.1103/PhysRev.142.922) | G<sub>Mp</sub>/&mu;<sub>p</sub> | e+p->e+p |  |  |
-| 0009 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Ep</sub><sup>2</sup> | e+p->e+p |  |  |
-| 0010 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  |  |
-| 0011 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  |  |
+| 0009 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Ep</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
+| 0010 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
+| 0011 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
 |  | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) |  |  |  |  |
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) |  |  |  |  |
 |  | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) |  |  |  |  |
