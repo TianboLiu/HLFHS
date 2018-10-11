@@ -16,7 +16,7 @@
 | 0011 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
 | 0012 | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  |  |
 | 0013 | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) | G<sub>Mp</sub> | e+p->e+p |  |  |
-|  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) |  |  |  |  |
+|  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  | FF data table not available in the paper |
 |  | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) |  |  |  |  |
 |  | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) |  |  |  |  |
 |  | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) |  |  |  |  |
