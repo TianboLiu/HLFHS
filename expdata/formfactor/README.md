@@ -28,7 +28,9 @@
 | 0023 | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0024 | [Phys. Rev. D 48 (1993) 29](https://doi.org/10.1103/PhysRevD.48.29) | Q<sup>4</sup>G<sub>Mp</sub> | e+p->e+p |  |  |
 | 0025 | [Phys. Rev. D 48 (1993) 29](https://doi.org/10.1103/PhysRevD.48.29) | Q<sup>4</sup>F<sub>1p</sub> | e+p->e+p |  |  |
-|  | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) |  |  |  |  |
+| 0026 | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) | G<sub>Ep</sub>/G<sub>D</sub> | e+p->e+p |  |  |
+| 0027 | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) | G<sub>Mp</sub>/&mu;G<sub>D</sub> | e+p->e+p |  |  |
+| 0028 | [Phys. Rev. D 49 (1994) 5671](https://doi.org/10.1103/PhysRevD.49.5671) | Q<sup>2</sup>F<sub>2p</sub>/F<sub>1p</sub> | e+p->e+p |  |  |
 |  | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) |  |  |  |  |
 |  | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) |  |  |  |  |
 |  | [Phys. Rev. Lett. 94 (2005) 142301](https://doi.org/10.1103/PhysRevLett.94.142301) |  |  |  |  |
