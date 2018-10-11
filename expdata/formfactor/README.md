@@ -19,7 +19,10 @@
 | 0014 | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0015 | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) | G<sub>Mp</sub>/&mu; | e+p->e+p |  |  |
 | 0016 | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  |  |
-|  | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) |  |  |  |  |
+| 0017 | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  |  |
+| 0018 | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) | G<sub>Mp</sub> | e+p->e+p |  |  |
+| 0019 | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) | G<sub>En</sub><sup>2</sup> | e+d->e+p+n |  | include some earlier data |
+| 0020 | [Nucl. Phys. B 58 (1973) 429](https://doi.org/10.1016/0550-3213(73)90594-4) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  | include some earlier data |
 |  | [Nucl. Phys. B 93 (1975) 461](https://doi.org/10.1016/0550-3213(75)90514-3) |  |  |  |  |
 |  | [Nucl. Phys. A 333 (1980) 381](https://doi.org/10.1016/0375-9474(80)90104-9) |  |  |  |  |
 |  | [Phys. Rev. D 48 (1993) 29](https://doi.org/10.1103/PhysRevD.48.29) |  |  |  |  |
