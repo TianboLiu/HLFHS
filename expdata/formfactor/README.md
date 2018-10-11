@@ -37,7 +37,9 @@
 | 0032 | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) | F<sub>1p</sub>/G<sub>D</sub> | e+p->e+p |  |  |
 | 0033 | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) | F<sub>2p</sub>/G<sub>D</sub> | e+p->e+p |  |  |
 | 0034 | [Phys. Rev. D 50 (1994) 5491](https://doi.org/10.1103/PhysRevD.50.5491) | Q<sup>2</sup>F<sub>2p</sub>/F<sub>1p</sub> | e+p->e+p |  |  |
-|  | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) |  |  |  |  |
+| 0035 | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) | G<sub>Ep</sub>/G<sub>D</sub> | e+p->e+p  |  |  |
+| 0036 | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) | G<sub>Mp</sub>/&mu;G<sub>D</sub> | e+p->e+p  |  |  |
+| 0037 | [Phys. Rev. C 70 (2004) 015206](https://doi.org/10.1103/PhysRevC.70.015206) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p  |  |  |
 |  | [Phys. Rev. Lett. 94 (2005) 142301](https://doi.org/10.1103/PhysRevLett.94.142301) |  |  |  |  |
 |  | [Phys. Rev. Lett. 87 (2001) 081801](https://doi.org/10.1103/PhysRevLett.87.081801) |  |  |  |  |
 |  | [Phys. Rev. Lett. 92 (2004) 042301](https://doi.org/10.1103/PhysRevLett.92.042301) |  |  |  |  |
