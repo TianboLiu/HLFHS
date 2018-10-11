@@ -1,0 +1,19 @@
+Phys. Rev. D 50 (1994) 5491
+https://doi.org/10.1103/PhysRevD.50.5491
+Proton electric form factor from cross section measurement
+process: e p -> e p
+
+
+err_total include statistical and systematic (except normalization) errors added in quadrature
+
+Q2	 G_Ep/G_D err_stat- err_stat+  err_total- err_total+  err_norm
+GeV^2	 1	  1	    1	       1	  1	      %
+1.75	 0.956	  -0.033    0.032      -0.056	  0.053	      0.9
+2.50	 0.868	  -0.024    0.023      -0.070	  0.065	      0.9	
+3.25	 0.884	  -0.055    0.051      -0.123	  0.108	      0.9
+4.00	 0.919	  -0.071    0.066      -0.135	  0.118	      0.9
+5.00	 0.942	  -0.104    0.094      -0.188	  0.155	      0.9
+6.00	 0.952	  -0.155    0.133      -0.229	  0.184	      0.9
+7.00	 1.448	  -0.211    0.184      -0.244	  0.209	      0.9
+8.83	 0.869	  -0.869    0.464      -0.869	  0.484	      0.9
+

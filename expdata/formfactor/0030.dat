@@ -1,0 +1,19 @@
+Phys. Rev. D 50 (1994) 5491
+https://doi.org/10.1103/PhysRevD.50.5491
+Proton magnetic form factor from cross section measurement
+process: e p -> e p
+
+
+err_total include statistical and systematic (except normalization) errors added in quadrature
+
+Q2	 G_Mp/G_D/mu err_stat- err_stat+  err_total- err_total+  err_norm
+GeV^2	 1	     1	       1	  1	     1	      	 %
+1.75	 1.050	     -0.006    0.006	  -0.010     0.010	 0.9
+2.50	 1.054	     -0.002    0.002	  -0.007     0.007	 0.9	
+3.25	 1.045	     -0.005    0.005	  -0.009     0.009	 0.9
+4.00	 1.031	     -0.005    0.005	  -0.009     0.009	 0.9
+5.00	 1.012	     -0.006    0.006	  -0.009     0.009	 0.9
+6.00	 0.987	     -0.008    0.008	  -0.012     0.012	 0.9
+7.00	 0.959	     -0.014    0.014	  -0.016     0.016	 0.9
+8.83	 0.916	     -0.022    0.022	  -0.023     0.023	 0.9
+
