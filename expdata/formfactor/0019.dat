@@ -1,0 +1,23 @@
+Nucl. Phys. B 58 (1973) 429
+https://doi.org/10.1016/0550-3213(73)90594-4
+Neutron electric form factor from quasi-elastic e+d cross section
+process e d -> e p n
+
+
+a compilation including some early data
+
+Q2	G_En^2		err_total
+GeV^2	1		1
+0.214	0.002		0.0048
+0.389	-0.003		0.009
+0.389	-0.008		0.007
+0.565	-0.004		0.006
+0.600	-0.20		0.006
+0.780	0.0058		0.0077
+1.00	0.0040		0.013
+1.00	0.0045		0.0045
+1.17	0.0013		0.007
+1.53	0.0021		0.0025
+1.80	-0.047		-.0047
+2.70	0.029		0.0034
+
