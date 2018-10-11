@@ -14,6 +14,8 @@
 | 0009 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Ep</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
 | 0010 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
 | 0011 | [Phys. Rev. D 4 (1971) 45](https://doi.org/10.1103/PhysRevD.4.45) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  | first 3 points quoted from [Phys. Rev. 126 (1962) 1183](https://doi.org/10.1103/PhysRev.126.1183) and [Nuovo Cim. (1963) 18](https://doi.org/10.1007/BF02806044) |
+| 0012 | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) | &mu;<sup>2</sup>G<sub>Ep</sub><sup>2</sup>/G<sub>Mp</sub><sup>2</sup> | e+p->e+p |  |  |
+| 0013 | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) | G<sub>Mp</sub> | e+p->e+p |  |  |
 |  | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) |  |  |  |  |
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) |  |  |  |  |
 |  | [Phys. Lett. B 35 (1971) 87](https://doi.org/10.1016/0370-2693(71)90448-5) |  |  |  |  |
@@ -59,7 +61,6 @@
 |  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
 |  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  |  |
 |  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
-|  | [Phys. Lett. B 33 (1970) 245](https://doi.org/10.1016/0370-2693(70)90585-X) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
 |  | [Phys. Rev. 130 (1963) 2061](https://doi.org/10.1103/PhysRev.130.2061) |  |  |  |  |
