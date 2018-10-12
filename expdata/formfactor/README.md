@@ -44,7 +44,7 @@
 | 0039 | [Phys. Rev. Lett. 94 (2005) 142301](https://doi.org/10.1103/PhysRevLett.94.142301) | G<sub>Mp</sub>/&mu;G<sub>D</sub> | e+p->e+p |  |  |
 | 0040 | [Phys. Rev. Lett. 94 (2005) 142301](https://doi.org/10.1103/PhysRevLett.94.142301) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  |  |
 | 0041 | [Phys. Rev. Lett. 87 (2001) 081801](https://doi.org/10.1103/PhysRevLett.87.081801) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
-|  | [Phys. Rev. Lett. 92 (2004) 042301](https://doi.org/10.1103/PhysRevLett.92.042301) |  |  |  |  |
+| 0042 | [Phys. Rev. Lett. 92 (2004) 042301](https://doi.org/10.1103/PhysRevLett.92.042301) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
 |  | [Phys. Rev. Lett. 105 (2010) 262302](https://doi.org/10.1103/PhysRevLett.105.262302) |  |  |  |  |
 |  | [Phys. Rev. Lett. 24 (1970) 753](https://doi.org/10.1103/PhysRevLett.24.753) |  |  |  |  |
 |  | [Phys. Rev. C 50 (1994) R1749](https://doi.org/10.1103/PhysRevC.50.R1749) |  |  |  |  |
