@@ -52,6 +52,7 @@
 |  | [Phys. Lett. B 470 (1999) 39](https://doi.org/10.1016/S0370-2693(99)01294-0) |  |  |  |  |
 |  | [Phys. Rev. Lett. 82 (1999) 4988](https://doi.org/10.1103/PhysRevLett.82.4988) |  |  |  |  |
 |  | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) |  |  |  |  |
+|  | [Eur. Phys. J. A 6 (1999) 329](https://doi.org/10.1007/s100500050351) |  |  |  |  |
 |  | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) |  |  |  |  |
 |  | [Phys. Rev. C 84 (2011) 055204](https://doi.org/10.1103/PhysRevC.84.055204) |  |  |  |  |
 |  | [Phys. Rev. Lett. 98 (2007) 052301](https://doi.org/10.1103/PhysRevLett.98.052301) |  |  |  |  |
