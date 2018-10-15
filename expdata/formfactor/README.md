@@ -52,7 +52,7 @@
 | 0047 | [Phys. Rev. Lett. 82 (1999) 4988](https://doi.org/10.1103/PhysRevLett.82.4988) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
 | 0048 | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
 | 0049 | [Eur. Phys. J. A 6 (1999) 329](https://doi.org/10.1007/s100500050351) | G<sub>En</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
-|  | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) |  |  |  |  |
+| 0050 | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) | G<sub>En</sub> | e(pol)+d->e+p+n(pol) |  |  |
 |  | [Phys. Rev. C 84 (2011) 055204](https://doi.org/10.1103/PhysRevC.84.055204) |  |  |  |  |
 |  | [Phys. Rev. Lett. 98 (2007) 052301](https://doi.org/10.1103/PhysRevLett.98.052301) |  |  |  |  |
 |  | [Phys. Rev. C 74 (2006) 035201](https://doi.org/10.1103/PhysRevC.74.035201) |  |  |  |  |
