@@ -47,7 +47,6 @@
 | 0042 | [Phys. Rev. Lett. 92 (2004) 042301](https://doi.org/10.1103/PhysRevLett.92.042301) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
 | 0043 | [Phys. Rev. Lett. 105 (2010) 262302](https://doi.org/10.1103/PhysRevLett.105.262302) | G<sub>En</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
 | 0044 | [Phys. Rev. C 50 (1994) R1749](https://doi.org/10.1103/PhysRevC.50.R1749) | G<sub>En</sub> | e(pol)+d->e+p+n(pol) |  |  |
-|  | [Nucl. Phys. A 510 (1990) 740](https://doi.org/10.1016/0375-9474(90)90358-S) |  |  |  |  |
 |  | [Phys. Rev. C 44 (1991) R571](https://doi.org/10.1103/PhysRevC.44.R571) |  |  |  |  |
 |  | [Phys. Rev. Lett. 68 (1992) 2901](https://doi.org/10.1103/PhysRevLett.68.2901) |  |  |  |  |
 |  | [Phys. Rev. Lett. 80 (1998) 452](https://doi.org/10.1103/PhysRevLett.80.452) [Erratum: 82 (1999) 2221](https://doi.org/10.1103/PhysRevLett.82.2221) |  |  |  |  |
@@ -85,6 +84,7 @@
 |  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
 |  | [Phys. Rev. 130 (1963) 2061](https://doi.org/10.1103/PhysRev.130.2061) |  |  |  |  |
 |  | [Phys. Rev. Lett. 6 (1961) 286](https://doi.org/10.1103/PhysRevLett.6.286) |  |  |  |  |
+|  | [Nucl. Phys. A 510 (1990) 740](https://doi.org/10.1016/0375-9474(90)90358-S) |  |  |  |  |
 |  | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) | G<sub>Mp</sub>/&mu; | e+p->e+p |  | FF extracted assuming &mu;G<sub>Ep</sub>/G<sub>Mp</sub>=1 |
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  | FF data table not available in the paper |
 
