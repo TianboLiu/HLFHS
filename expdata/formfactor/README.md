@@ -59,7 +59,7 @@
 | 0054 | [Nucl. Phys. A 764 (2006) 261](https://doi.org/10.1016/j.nuclphysa.2005.09.012) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
 | 0055 | [Phys. Lett. B 705 (2011) 59](https://doi.org/10.1016/j.physletb.2011.10.002) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
 | 0056 | [Phys. Lett. B 564 (2003) 199](https://doi.org/10.1016/S0370-2693(03)00725-1) | G<sub>En</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
-|  | [Phys. Rev. Lett. 101 (2008) 042501](https://doi.org/10.1103/PhysRevLett.101.042501) |  |  |  |  |
+| 0057 | [Phys. Rev. Lett. 101 (2008) 042501](https://doi.org/10.1103/PhysRevLett.101.042501) | &mu;G<sub>En</sub>/G<sub>Mn</sub> | e(pol)+d(pol)->e+p+n |  |  |
 |  | [Eur. Phys. J. A 24 (2005) 101](https://doi.org/10.1140/epja/i2004-10115-8) |  |  |  |  |
 |  | [Phys. Lett. B 327 (1994) 201](https://doi.org/10.1016/0370-2693(94)90718-8) |  |  |  |  |
 |  | [Phys. Rev. C 73 (2005) 025205](https://doi.org/10.1103/PhysRevC.73.025205) |  |  |  |  |
