@@ -50,7 +50,7 @@
 | 0045 | [Phys. Rev. C 44 (1991) R571](https://doi.org/10.1103/PhysRevC.44.R571) | G<sub>En</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
 | 0046 | [Phys. Rev. Lett. 80 (1998) 452](https://doi.org/10.1103/PhysRevLett.80.452) [Erratum: 82 (1999) 2221](https://doi.org/10.1103/PhysRevLett.82.2221) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
 | 0047 | [Phys. Rev. Lett. 82 (1999) 4988](https://doi.org/10.1103/PhysRevLett.82.4988) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
-|  | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) |  |  |  |  |
+| 0048 | [Eur. Phys. J. A 5 (1999) 131](https://doi.org/10.1007/s100500050268) | G<sub>En</sub> | e(pol)+d(pol)->e+p+n |  |  |
 |  | [Eur. Phys. J. A 6 (1999) 329](https://doi.org/10.1007/s100500050351) |  |  |  |  |
 |  | [Phys. Rev. Lett. 83 (1999) 276](https://doi.org/10.1103/PhysRevLett.83.276) |  |  |  |  |
 |  | [Phys. Rev. C 84 (2011) 055204](https://doi.org/10.1103/PhysRevC.84.055204) |  |  |  |  |
