@@ -69,13 +69,11 @@
 | 0064 | [Phys. Lett. B 428 (1998) 248](https://doi.org/10.1016/S0370-2693(98)00442-0) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0065 | [Phys. Rev. Lett. 75 (1995) 21](https://doi.org/10.1103/PhysRevLett.75.21) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0066 | [Phys. Rev. C 50 (1994) R546](https://doi.org/10.1103/PhysRevC.50.R546) | (G<sub>Mn</sub>/&mu;G<sub>D</sub>)<sup>2</sup> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
-|  | [Phys. Rev. C 75 (2007) 034003](https://doi.org/10.1103/PhysRevC.75.034003) |  |  |  |  |
+| 0067 | [Phys. Rev. C 75 (2007) 034003](https://doi.org/10.1103/PhysRevC.75.034003) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  | Refined analysis of [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900), [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) and [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |
 |  | [Phys. Lett. B 524 (2002) 26](https://doi.org/10.1016/S0370-2693(01)01386-7) |  |  |  |  |
 |  | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) |  |  |  |  |
 |  | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) |  |  |  |  |
 |  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
-|  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  |  |
-|  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  |  |
 |  | [Phys. Lett. B 771 (2017) 194](https://doi.org/10.1016/j.physletb.2017.05.031) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
@@ -87,4 +85,6 @@
 |  | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  | FF data table not available in the paper |
 |  | [Phys. Rev. Lett. 99 (2007) 202002](https://doi.org/10.1103/PhysRevLett.99.202002) |  |  |  | updated by 0051 |
 |  | [Phys. Rev. Lett. 61 (1988) 806](https://doi.org/10.1103/PhysRevLett.61.806) |  |  |  | FF data table not available in the paper |
-
+|  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  | updated by 0067 |
+|  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  | updated by 0067 |
+|  | [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |  |  |  | updated by 0067 |

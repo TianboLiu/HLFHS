@@ -1,0 +1,16 @@
+Phys. Rev. C 75 (2007) 034003
+https://doi.org/10.1103/PhysRevC.75.034003
+Neutron magnetic form factor
+process: e(pol) 3He(pol) -> e p p n
+
+
+
+
+Q2	 G_Mn/G_D/mu	 err_stat(rel)	err_syst(rel)	err_model(rel)
+GeV^2	 1		 %		%		%
+0.1	 0.9481		 1.36		1.08		2.2
+0.193	 0.9511		 1.35		1.26		2.1
+0.3	 0.9577		 1.35		1.86		5.3
+0.4	 0.9694		 1.45		1.28		2.5
+0.5	 0.9689		 1.35		1.25		2.1
+0.6	 0.9939		 1.55		1.38		2.0
