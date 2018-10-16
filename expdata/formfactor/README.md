@@ -5,7 +5,7 @@
 | 0000 | N/A |    N/A     |  N/A  |  test  | test |
 | 0001 | [Phys. Rev. Lett. 84 (2000) 1398](https://doi.org/10.1103/PhysRevLett.84.1398) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0002 | [Phys. Rev. C 71 (2005) 055202](https://doi.org/10.1103/PhysRevC.71.055202) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
-| 0003 | [Phys. Rev. Lett. 88 (2002) 092301](https://doi.org/10.1103/PhysRevLett.88.092301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | find QF<sub>2</sub>/F<sub>1</sub>->const |
+| 0003 | [Phys. Rev. Lett. 88 (2002) 092301](https://doi.org/10.1103/PhysRevLett.88.092301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0004 | [Phys. Rev. C 85 (2012) 045203](https://doi.org/10.1103/PhysRevC.85.045203) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  | improved analysis of 0003 |
 | 0005 | [Phys. Rev. Lett. 104 (2010) 242301](https://doi.org/10.1103/PhysRevLett.104.242301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0006 | [Phys. Rev. Lett. 106 (2011) 132501](https://doi.org/10.1103/PhysRevLett.106.132501) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  |  |
