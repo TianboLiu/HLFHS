@@ -66,8 +66,8 @@
 | 0061 | [Phys. Rev. Lett. 83 (1999) 4257](https://doi.org/10.1103/PhysRevLett.83.4257) | G<sub>En</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
 | 0062 | [Phys. Rev. Lett. 102 (2009) 192001](https://doi.org/10.1103/PhysRevLett.102.192001) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0063 | [Phys. Lett. B 336 (1994) 313](https://doi.org/10.1016/0370-2693(94)90538-X) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
-| 0064 | [Phys. Lett. B 428 (1998) 248](https://doi.org/10.1016/S0370-2693(98)00442-0) |  G<sub>Mn</sub>/&mu;G<sub>D</sub>| e+d->e+p+n |  |  |
-|  | [Phys. Rev. Lett. 75 (1995) 21](https://doi.org/10.1103/PhysRevLett.75.21) |  |  |  |  |
+| 0064 | [Phys. Lett. B 428 (1998) 248](https://doi.org/10.1016/S0370-2693(98)00442-0) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
+| 0065 | [Phys. Rev. Lett. 75 (1995) 21](https://doi.org/10.1103/PhysRevLett.75.21) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 |  | [Phys. Rev. C 50 (1994) R546](https://doi.org/10.1103/PhysRevC.50.R546) |  |  |  |  |
 |  | [Phys. Rev. C 75 (2007) 034003](https://doi.org/10.1103/PhysRevC.75.034003) |  |  |  |  |
 |  | [Phys. Lett. B 524 (2002) 26](https://doi.org/10.1016/S0370-2693(01)01386-7) |  |  |  |  |
