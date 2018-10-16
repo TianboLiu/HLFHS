@@ -1,0 +1,14 @@
+Phys. Rev. Lett. 70 (1993) 718
+https://doi.org/10.1103/PhysRevLett.70.718
+Neutron magnetic form factor
+process: e d -> e p n
+
+
+
+
+Q2	 G_Mn/G_D/mu	err_stat	err_syst
+GeV^2	 1		1		1
+1.75	 1.052		0.026		0.045
+2.50	 1.014		0.017		0.041
+3.25	 0.967		0.031		0.052
+4.00	 0.923		0.048		0.065

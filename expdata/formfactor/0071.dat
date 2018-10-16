@@ -1,0 +1,14 @@
+Phys. Rev. Lett. 70 (1993) 718
+https://doi.org/10.1103/PhysRevLett.70.718
+Neutron electric form factor
+process: e d -> e p n
+
+
+
+
+Q2	 (G_En/G_D)^2	err_stat	err_syst
+GeV^2	 1		1		1
+1.75	 -0.008		0.074		0.117
+2.50	 -0.050		0.074		0.142
+3.25	 0.164		0.154		0.252
+4.00	 0.235		0.269		0.356
