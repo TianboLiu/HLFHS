@@ -1,0 +1,15 @@
+Phys. Rev. Lett. 49 (1982) 1139
+https://doi.org/10.1103/PhysRevLett.49.1139
+Neutron magnetic form factor
+process: e d -> e p n
+
+
+Extracted assuming G_En = 0
+
+Q2	 G_Mn	  err_total
+GeV^2	 1	  1
+2.5	 0.092	  0.004
+4.0	 0.041	  0.002
+6.0	 0.0195	  0.0010
+8.0	 0.0090	  0.0015
+10.0	 0.0053	  0.0013
