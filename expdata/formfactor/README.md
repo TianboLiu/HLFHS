@@ -74,7 +74,7 @@
 | 0069 | [Yad. Fiz. 45 (1987) 410 \[Sov. J. Nucl. Phys. 45 (1987) 258\]](http://inspirehep.net/record/250500) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0070 | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0071 | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) | (G<sub>En</sub>/G<sub>D</sub>)<sup>2</sup> | e+d->e+p+n |  |  |
-|  | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) |  |  |  |  |
+| 0072 | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 |  | [Phys. Rev. Lett. 49 (1982) 1139](https://doi.org/10.1103/PhysRevLett.49.1139) |  |  |  |  |
 |  | [Phys. Lett. B 771 (2017) 194](https://doi.org/10.1016/j.physletb.2017.05.031) |  |  |  |  |
 |  | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
