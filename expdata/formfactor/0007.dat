@@ -6,7 +6,7 @@ process: e p -> e p
 
 
 
-Q2     	G_E	err_stat    err_syst
+Q2     	G_Ep	err_stat    err_syst
 fm^-2	1	1	    %(relative)
 4.0	0.689	0.019	    2.6
 4.6	0.615	0.015	    2.6
