@@ -6,7 +6,7 @@ process: e p -> e p
 
 
 
-Q2	 mu^2*G_Ep^2/G_Mp^2	err_total
+Q2	 (mu*G_Ep/G_Mp)^2	err_total
 GeV^2	 1			1
 1.169	 0.99			0.15
 1.75	 0.60			0.22

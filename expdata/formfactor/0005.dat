@@ -6,7 +6,7 @@ process: e(pol) + p -> e + p(pol)
 
 
 
-Q2	 del_Q2	  mu_p*G_Ep/G_Mp	err_stat	err_syst	  
+Q2	 del_Q2	  mu*G_Ep/G_Mp		err_stat	err_syst	  
 GeV^2	 GeV^2	  1			1		1
 5.17	 0.123	  0.443			0.066		0.018
 6.70	 0.190	  0.327			0.105		0.022

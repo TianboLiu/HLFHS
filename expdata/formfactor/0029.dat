@@ -7,7 +7,7 @@ process: e p -> e p
 err_total include statistical and systematic (except normalization) errors added in quadrature
 
 Q2	 G_Ep/G_D err_stat- err_stat+  err_total- err_total+  err_norm
-GeV^2	 1	  1	    1	       1	  1	      %
+GeV^2	 1	  1	    1	       1	  1	      %(relative)
 1.75	 0.956	  -0.033    0.032      -0.056	  0.053	      0.9
 2.50	 0.868	  -0.024    0.023      -0.070	  0.065	      0.9	
 3.25	 0.884	  -0.055    0.051      -0.123	  0.108	      0.9

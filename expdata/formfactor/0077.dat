@@ -6,8 +6,8 @@ process: e p -> e p
 
 
 
-E_beam	Q2	sigma/sigma_D	err_stat	err_syst(rel)
-MeV	fm^-2	1		1		%
+E_beam	Q2	sigma/sigma_D	err_stat	err_syst
+MeV	fm^-2	1		1		%(relative)
 149.8	0.13 	0.994 		0.020		2
 149.8 	0.26 	0.992 		0.009		2
 149.8 	0.32 	0.974 		0.009		2

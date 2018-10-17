@@ -6,6 +6,6 @@ process: e(pol) 3He(pol) -> e p p n
 
 
 
-Q2	 (G_Mn/G_D/mu)^2 err_stat	err_syst	err_model
+Q2	 (G_Mn/mu/G_D)^2 err_stat	err_syst	err_model
 GeV^2	 1		 1 		1		1
 0.19	 0.998		 0.117		0.059		0.030

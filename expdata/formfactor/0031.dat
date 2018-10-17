@@ -4,7 +4,7 @@ Proton electromagnetic form factor ratio from cross section measurement
 process: e p -> e p
 
 
-err_total include statistical and systematic (except normalization) errors added in quadrature
+err_total include statistical and systematic errors added in quadrature
 
 Q2	 mu*G_Ep/G_Mp err_stat- err_stat+  err_total- err_total+
 GeV^2	 1	     1	       1	  1	     1

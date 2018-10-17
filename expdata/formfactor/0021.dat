@@ -6,8 +6,8 @@ process e p -> e p
 
 
 
-Q2	G_Ep	 err_stat	err_syst(relative)
-GeV^2	1	 1		%
+Q2	G_Ep	 err_stat	err_syst
+GeV^2	1	 1		%(relative)
 0.0136	0.949	 0.008		2.0
 0.021	0.930	 0.008		2.0
 0.033	0.901	 0.007		2.0

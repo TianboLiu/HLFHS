@@ -6,7 +6,7 @@ process: e d -> e p n
 
 
 
-Q2	 G_Mn/G_D/mu	err_total
+Q2	 G_Mn/mu/G_D	err_total
 GeV^2	 1		1
 0.071	 0.990		0.013
 0.125	 0.967		0.013

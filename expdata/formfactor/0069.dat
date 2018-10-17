@@ -6,8 +6,8 @@ process: e d -> e p n
 
 
 
-Q2	 G_Mn/G_D/mu	err_stat	err_syst(rel)
-GeV^2	 1		1		%
+Q2	 G_Mn/mu/G_D	err_stat	err_syst
+GeV^2	 1		1		%(relative)
 0.482	 0.321		0.017		8.0
 0.545	 0.323		0.014		8.0
 0.608	 0.367		0.010		8.0

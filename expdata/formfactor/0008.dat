@@ -6,8 +6,8 @@ process: e p -> e p
 
 
 
-Q2     	G_M/mu_p err_stat    err_syst(rel.)
-fm^-2	1	1	    %
+Q2     	G_M/mu	err_stat    err_syst
+fm^-2	1	1	    %(relative)
 4.0	0.623	0.018	    2.6
 4.6	0.611	0.010	    2.6
 5.0	0.618	0.021	    2.6

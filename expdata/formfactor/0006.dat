@@ -6,7 +6,7 @@ At three different beam energies: 1.87, 2.84, 3.63 GeV
 
 
 
-Q2	 del_Q2	  mu_p*G_Ep/G_Mp	err_stat	err_syst	  
+Q2	 del_Q2	  mu*G_Ep/G_Mp		err_stat	err_syst	  
 GeV^2	 GeV^2	  1			1		1
 2.493	 0	  0.696			0.009		0.013
 2.490	 0	  0.688			0.011		0.009
