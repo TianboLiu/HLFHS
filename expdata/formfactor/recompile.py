@@ -244,8 +244,8 @@ def Load(idx):
         d1['Q2'] = d0['Q2'].values.flatten()
         if d0['Q2'].columns[0] == 'fm^-2': 
             d1['Q2'] = fm2GeV(d1['Q2'], 2)
-        d1['G_Mn/mu/G_D'] = d0['G_Mn/mu/G_D'].values.flatten()
-        d1['error'] = ((d0['err_stat'].values**2 + (d0['G_Mn/mu/G_D'].values*d0['err_syst'].values/100.0)**2)**0.5).flatten()
+        d1['G_Mn/mu/G_D'] = d0['G_Mn/mu'].values.flatten() / G_D(d1['Q2'])
+        d1['error'] = ((d0['err_stat'].values**2 + (d0['G_Mn/mu'].values*d0['err_syst'].values/100.0)**2)**0.5).flatten() / G_D(d1['Q2'])
         d2 = pd.DataFrame(data=d1)
     elif idx in [66,]:
         d1 = {}
