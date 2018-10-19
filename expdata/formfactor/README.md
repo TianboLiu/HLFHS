@@ -1,6 +1,9 @@
 # Form factor data sets
 
-<details><summary>## Nucleon electromagnetic form factors (CLICK ME)</summary>
+<details>
+<summary>
+## Nucleon electromagnetic form factors (CLICK ME)
+</summary>
 <p>
 
 | idx | publication | observable | process | description | comments |
