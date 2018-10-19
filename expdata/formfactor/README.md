@@ -78,7 +78,7 @@ cxxx.dat are recompiled table of multiple data sets
 | 0066 | H. Gao | [Phys. Rev. C 50 (1994) R546](https://doi.org/10.1103/PhysRevC.50.R546) | (G<sub>Mn</sub>/&mu;G<sub>D</sub>)<sup>2</sup> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  |  |
 | 0067 | B. Anderson | [Phys. Rev. C 75 (2007) 034003](https://doi.org/10.1103/PhysRevC.75.034003) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e(pol)+<sup>3</sup>He(pol)->e+p+p+n |  | Refined analysis of [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900), [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) and [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |
 | 0068 | G. Kubon | [Phys. Lett. B 524 (2002) 26](https://doi.org/10.1016/S0370-2693(01)01386-7) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
-| 0069 | A.S. Esaulov | [Yad. Fiz. 45 (1987) 410 \[Sov. J. Nucl. Phys. 45 (1987) 258\]](http://inspirehep.net/record/250500) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
+| 0069 | A.S. Esaulov | [Yad. Fiz. 45 (1987) 410 \[Sov. J. Nucl. Phys. 45 (1987) 258\]](http://inspirehep.net/record/250500) | G<sub>Mn</sub>/&mu; | e+d->e+p+n |  |  |
 | 0070 | A. Lung | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
 | 0071 | A. Lung | [Phys. Rev. Lett. 70 (1993) 718](https://doi.org/10.1103/PhysRevLett.70.718) | (G<sub>En</sub>/G<sub>D</sub>)<sup>2</sup> | e+d->e+p+n |  |  |
 | 0072 | P. Markowitz | [Phys. Rev. C 48 (1993) R5](https://doi.org/10.1103/PhysRevC.48.R5) | G<sub>Mn</sub>/&mu;G<sub>D</sub> | e+d->e+p+n |  |  |
