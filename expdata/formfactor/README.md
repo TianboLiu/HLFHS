@@ -4,7 +4,9 @@
 <details><summary>(CLICK ME)</summary>
 <p>
 0000.dat is kept for test
+
 xxxx.dat are data table from published papers, rxxxx.dat are corresponding recompiled table
+
 cxxx.dat are recompiled table of multiple data sets
 
 | idx | author(1st) | publication | observable | process | description | comments |
