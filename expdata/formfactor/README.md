@@ -1,5 +1,8 @@
 # Form factor data sets
 
+<details><summary>Nucleon electromagnetic form factors (CLICK ME)</summary>
+<p>
+
 | idx | publication | observable | process | description | comments |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0000 | N/A |    N/A     |  N/A  |  test  | test |
@@ -94,3 +97,7 @@
 |  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  | updated by 0067 |
 |  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  | updated by 0067 |
 |  | [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |  |  |  | updated by 0067 |
+
+</p>
+</details>
+
