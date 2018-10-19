@@ -1,9 +1,6 @@
 # Form factor data sets
 
-<details>
-<summary>
-**Nucleon electromagnetic form factors (CLICK ME)**
-</summary>
+## <details><summary>Nucleon electromagnetic form factors (CLICK ME)</summary>
 <p>
 xxxx.dat are data table from published papers, rxxxx.dat are corresponding recompiled table
 cxxx.dat are recompiled table of multiple data sets
