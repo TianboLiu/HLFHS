@@ -2,9 +2,11 @@
 
 <details>
 <summary>
-** Nucleon electromagnetic form factors (CLICK ME) **
+**Nucleon electromagnetic form factors (CLICK ME)**
 </summary>
 <p>
+xxxx.dat are data table from published papers, rxxxx.dat are corresponding recompiled table
+cxxx.dat are recompiled table of multiple data sets
 
 | idx | publication | observable | process | description | comments |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -100,6 +102,16 @@
 |  | [Phys. Rev. Lett. 85 (2000) 2900](https://doi.org/10.1103/PhysRevLett.85.2900) |  |  |  | updated by 0067 |
 |  | [Phys. Rev. C 67 (2003) 012201](https://doi.org/10.1103/PhysRevC.67.012201) |  |  |  | updated by 0067 |
 |  | [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |  |  |  | updated by 0067 |
+| c001 | N/A | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | N/A | recompiled | recompiled |
+| c002 | N/A | G<sub>Ep</sub>/G<sub>D</sub> | N/A | recompiled | recompiled |
+| c003 | N/A | G<sub>Mp</sub>/&mu;G<sub>D</sub> | N/A | recompiled recompiled |
+| c004 | N/A | &mu;G<sub>En</sub>/G<sub>Mn</sub> | N/A | recompiled | recompiled |
+| c005 | N/A | G<sub>En</sub> | N/A | recompiled | recompiled |
+| c006 | N/A | G<sub>Mn</sub>/&mu;G<sub>D</sub> | N/A | recompiled | recompiled |
+| c007 | N/A | Q<sup>4</sup>F<sub>1p</sub> | N/A | recompiled | recompiled |
+| c008 | N/A | Q<sup>2</sup>F<sub>2p</sub>/F<sub>1p</sub> | N/A | recompiled | recompiled |
+| c009 | N/A | F<sub>2p</sub>/G<sub>D</sub> | N/A | recompiled | recompiled |
+| c010 | N/A | &sigma;/&sigma;<sub>D</sub> | N/A | recompiled | recompiled |
 
 </p>
 </details>
