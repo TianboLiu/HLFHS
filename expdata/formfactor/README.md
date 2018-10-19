@@ -3,14 +3,14 @@
 ## Nucleon electromagnetic form factors 
 <details><summary>(CLICK ME)</summary>
 <p>
-  
+0000.dat is kept for test
 xxxx.dat are data table from published papers, rxxxx.dat are corresponding recompiled table
 cxxx.dat are recompiled table of multiple data sets
 
-| idx | publication | observable | process | description | comments |
+| idx | author(1st) | publication | observable | process | description | comments |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 0000 | N/A |    N/A     |  N/A  |  test  | test |
-| 0001 | [Phys. Rev. Lett. 84 (2000) 1398](https://doi.org/10.1103/PhysRevLett.84.1398) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
+| 0000 | N/A | N/A | N/A | N/A |  test  | test |
+| 0001 | M. K. Jones | [Phys. Rev. Lett. 84 (2000) 1398](https://doi.org/10.1103/PhysRevLett.84.1398) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0002 | [Phys. Rev. C 71 (2005) 055202](https://doi.org/10.1103/PhysRevC.71.055202) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0003 | [Phys. Rev. Lett. 88 (2002) 092301](https://doi.org/10.1103/PhysRevLett.88.092301) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) | | |
 | 0004 | [Phys. Rev. C 85 (2012) 045203](https://doi.org/10.1103/PhysRevC.85.045203) | &mu;<sub>p</sub>G<sub>Ep</sub>/G<sub>Mp</sub> | e(pol)+p->e+p(pol) |  | improved analysis of 0003 |
@@ -103,7 +103,7 @@ cxxx.dat are recompiled table of multiple data sets
 |  | [Phys. Rev. Lett. 87 (2001) 242501](https://doi.org/10.1103/PhysRevLett.87.242501) |  |  |  | updated by 0067 |
 | c001 | N/A | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | N/A | recompiled | recompiled |
 | c002 | N/A | G<sub>Ep</sub>/G<sub>D</sub> | N/A | recompiled | recompiled |
-| c003 | N/A | G<sub>Mp</sub>/&mu;G<sub>D</sub> | N/A | recompiled recompiled |
+| c003 | N/A | G<sub>Mp</sub>/&mu;G<sub>D</sub> | N/A | recompiled | recompiled |
 | c004 | N/A | &mu;G<sub>En</sub>/G<sub>Mn</sub> | N/A | recompiled | recompiled |
 | c005 | N/A | G<sub>En</sub> | N/A | recompiled | recompiled |
 | c006 | N/A | G<sub>Mn</sub>/&mu;G<sub>D</sub> | N/A | recompiled | recompiled |
