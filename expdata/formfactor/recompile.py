@@ -328,8 +328,8 @@ def Load(idx):
         d1['Q2'] = d0['Q2'].values.flatten()
         if d0['Q2'].columns[0] == 'fm^-2': 
             d1['Q2'] = fm2GeV(d1['Q2'], 2)
-        Eb = d0['E_beam'].values.flatten()
-        d1['epsilon'] = 1.0 / (1.0 + 2.0 * (1.0 + d1['Q2']/(4.0 * Mp * Mp)) * d1['Q2'] / (4.0 * Eb * (Eb - d1['Q2']/(2.0 * Mp)) - d1['Q2']))
+        y = d1['Q2'] / (2.0 * Mp * d0['E_beam'].values.flatten())
+        d1['epsilon'] = (1.0 - y - y**2 * Mp**2 / d1['Q2']) / (1.0 - y + 0.5 * y**2 + y**2 * Mp**2 / d1['Q2'])
         d1['sigma/sigma_D'] = d0['sigma/sigma_D'].values.flatten()
         d1['error'] = (d0['err_stat'].values.flatten()**2 + ((d0['err_syst'].values.flatten()-1.0) * d1['sigma/sigma_D'])**2)**0.5
         d2 = pd.DataFrame(data=d1)
@@ -338,8 +338,8 @@ def Load(idx):
         d1['Q2'] = d0['Q2'].values.flatten()
         if d0['Q2'].columns[0] == 'fm^-2': 
             d1['Q2'] = fm2GeV(d1['Q2'], 2)
-        Eb = d0['E_beam'].values.flatten()
-        d1['epsilon'] = 1.0 / (1.0 + 2.0 * (1.0 + d1['Q2']/(4.0 * Mp * Mp)) * d1['Q2'] / (4.0 * Eb * (Eb - d1['Q2']/(2.0 * Mp)) - d1['Q2']))
+        y = d1['Q2'] / (2.0 * Mp * d0['E_beam'].values.flatten())
+        d1['epsilon'] = (1.0 - y - y**2 * Mp**2 / d1['Q2']) / (1.0 - y + 0.5 * y**2 + y**2 * Mp**2 / d1['Q2'])
         d1['sigma/sigma_D'] = d0['sigma/sigma_D'].values.flatten()
         d1['error'] = (d0['err_stat'].values.flatten()**2 + (d0['err_syst'].values.flatten()/100.0 * d1['sigma/sigma_D'])**2)**0.5
         d2 = pd.DataFrame(data=d1)
