@@ -90,12 +90,12 @@ cxxx.dat are recompiled table of multiple data sets
 | 0078 | M. Mihovilovič | [Phys. Lett. B 771 (2017) 194](https://doi.org/10.1016/j.physletb.2017.05.031) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0079 | J. C. Bernauer | [Phys. Rev. Lett. 105 (2010) 242001](https://doi.org/10.1103/PhysRevLett.105.242001), [Phys. Rev. C 90 (2013) 015206](https://doi.org/10.1103/PhysRevC.90.015206) | G<sub>Ep</sub> | e+p->e+p |  |  |
 | 0080 | J. C. Bernauer | [Phys. Rev. Lett. 105 (2010) 242001](https://doi.org/10.1103/PhysRevLett.105.242001), [Phys. Rev. C 90 (2013) 015206](https://doi.org/10.1103/PhysRevC.90.015206) | G<sub>Mp</sub> | e+p->e+p |  |  |
+| 0081 | S. Platchkov | [Nucl. Phys. A 510 (1990) 740](https://doi.org/10.1016/0375-9474(90)90358-S) | G<sub>En</sub> | e+d->e+d |  |  |
 |  | L. N. Hand | [Rev. Mod. Phys. 35 (1963) 335](https://doi.org/10.1103/RevModPhys.35.335) |  |  |  |  |
 |  | F. Bumiller | [Phys. Rev. 124 (1961) 1623](https://doi.org/10.1103/PhysRev.124.1623) |  |  |  |  |
 |  | K. Berkelman | [Phys. Rev. 130 (1963) 2061](https://doi.org/10.1103/PhysRev.130.2061) |  |  |  |  |
 |  | D. N. Olson | [Phys. Rev. Lett. 6 (1961) 286](https://doi.org/10.1103/PhysRevLett.6.286) |  |  |  |  |
 |  | A. K. Thompson | [Phys. Rev. Lett. 68 (1992) 2901](https://doi.org/10.1103/PhysRevLett.68.2901) |  |  |  |  |
-|  | S. Platchkov | [Nucl. Phys. A 510 (1990) 740](https://doi.org/10.1016/0375-9474(90)90358-S) |  |  |  |  |
 |  | P. N. Kirk | [Phys. Rev. D 8 (1973) 63](https://doi.org/10.1103/PhysRevD.8.63) | G<sub>Mp</sub>/&mu; | e+p->e+p |  | FF extracted assuming &mu;G<sub>Ep</sub>/G<sub>Mp</sub>=1 |
 |  | J. Litt | [Phys. Lett. B 31 (1970) 40](https://doi.org/10.1016/0370-2693(70)90015-8) | &mu;G<sub>Ep</sub>/G<sub>Mp</sub> | e+p->e+p |  | FF data table not available in the paper |
 |  | G. Ron | [Phys. Rev. Lett. 99 (2007) 202002](https://doi.org/10.1103/PhysRevLett.99.202002) |  |  |  | updated by 0051 |
